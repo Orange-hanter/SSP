@@ -1,0 +1,4 @@
+"Brest" "NY" "325" "A3-35" "Passenger" "Mon Jan 4 16:02:37 GMT 2016" "Tue Jan 5 08:02:37 GMT 2016"
+"Brest" "London" "15" "C3-5" "Cargo" "Mon Jan 4 16:02:37 GMT 2016" "Tue Jan 5 08:02:37 GMT 2016"
+"Minsk" "London" "15" "C3-5" "Cargo" "Mon Jan 11 10:02:37 GMT 2016" "Tue Jan 12 18:02:37 GMT 2016"
+"Moscow" "NY" "0" "4-35" "Unmanned" "Tue Jan 19 11:02:37 GMT 2016" "Tue Jan 19 14:02:37 GMT 2016"

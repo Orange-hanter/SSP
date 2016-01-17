@@ -1,0 +1,1 @@
+java -jar uniq.jar -u input.txt output.txt
